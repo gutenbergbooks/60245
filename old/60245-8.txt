@@ -1,4 +1,38 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 60245 ***
+The Project Gutenberg EBook of Fort Robinson, by Roger Tibbetts Grange, Jr.
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Fort Robinson
+       Outpost on the Plains
+
+Author: Roger Tibbetts Grange, Jr.
+
+Release Date: September 6, 2019 [EBook #60245]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK FORT ROBINSON ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
 
                              FORT ROBINSON
                          OUTPOST ON THE PLAINS
@@ -34,14 +68,14 @@
 As men of the Sioux Expedition marched out of Fort Laramie in the cold
 March weather of 1874 they probably had more than a few misgivings about
 the outcome of their adventure. They were headed for one of the hottest
-spots on the Plains—Red Cloud Indian Agency. General Sheridan hoped that
-the 949 man expedition was large enough to intimidate the Indians and
-permit a peaceful occupation of the agency, but it was his belief that
-“were it any other than this inclement season ... hostilities would have
-commenced at the crossing of the North Platte River.”[1] Even with the
-large force and bad weather, open war with the hostile Sioux Indians was
-a distinct possibility and officers warned their men that straggling in
-camp or on the march might well be fatal. They kept all Indians away
+spots on the Plains--Red Cloud Indian Agency. General Sheridan hoped
+that the 949 man expedition was large enough to intimidate the Indians
+and permit a peaceful occupation of the agency, but it was his belief
+that "were it any other than this inclement season ... hostilities would
+have commenced at the crossing of the North Platte River."[1] Even with
+the large force and bad weather, open war with the hostile Sioux Indians
+was a distinct possibility and officers warned their men that straggling
+in camp or on the march might well be fatal. They kept all Indians away
 from their camps and marching column and warned their men not to fire at
 either game or Indians, unless in an unmistakable attack, lest
 injudicious gunfire needlessly start a battle.
@@ -85,7 +119,7 @@ Dr. Saville arrived to assume his duties while the move was in progress.
 During the summer and fall Saville was busy organizing his agency and
 staff. He removed Jules Ecoffey as agency trader, giving the appointment
 to his friend J. W. Dear. Construction contracts for buildings at the
-new site were given to A. R. Appleton, Saville’s brother-in-law.
+new site were given to A. R. Appleton, Saville's brother-in-law.
 
 The summer and fall were relatively quiet at the agency, but winter
 brought increasing problems for Saville. He was troubled particularly by
@@ -101,7 +135,7 @@ intervened. Undaunted by this experience, Saville gave a feast for the
 Indian leaders at the agency on Christmas Day in another effort to gain
 assent to the counting. At this meeting he found that not only the
 northern Indians, but the chiefs he thought of as his supporters all
-opposed the counting. Saville’s other troubles included the jealousies
+opposed the counting. Saville's other troubles included the jealousies
 of various chiefs and the overbearing attitude of the younger warriors
 who raised trouble during the issue of beef, annoyed agency workmen, and
 demanded payment for wood cut for use at the agency.
@@ -114,7 +148,7 @@ meeting into a friendly encounter by convincing the war leader that an
 attack on the cattlemen would have serious results. Such incidents,
 although causing no direct harm, created tensions around the agency.
 
-Saville’s problems were increased by government misunderstanding of the
+Saville's problems were increased by government misunderstanding of the
 complexities of social organization among the Indians at Red Cloud
 Agency. Red Cloud, for whom the agency was named, was recognized by the
 government as its chief, but after the Christmas feast Saville reported
@@ -151,12 +185,12 @@ Indians at Spotted Tail Agency drove off the beef herders there and did
 their own issuing. An attempt to shoot Agent Howard was prevented by
 Black Crow.
 
-Saville reported Frank Appleton’s death and the departure of the large
-war party to Colonel Smith at Fort Laramie, saying at the same time “I
-do not anticipate any more trouble.”[6] His employees did not share his
+Saville reported Frank Appleton's death and the departure of the large
+war party to Colonel Smith at Fort Laramie, saying at the same time "I
+do not anticipate any more trouble."[6] His employees did not share his
 optimism as shown by the agency physician, Dr. Grove, who took
-Appleton’s body to Fort Laramie and declared his lack of desire to
-return to Red Cloud to be “made a target of.”[7]
+Appleton's body to Fort Laramie and declared his lack of desire to
+return to Red Cloud to be "made a target of."[7]
 
 On February 9, the same day Frank Appleton was shot, the Army at Fort
 Laramie experienced losses at the hands of hostiles from Red Cloud
@@ -186,7 +220,7 @@ by Pumpkin Seed was organized to help.
 
                           THE SIOUX EXPEDITION
 
-Very shortly after Frank Appleton’s death, Agent Saville requested that
+Very shortly after Frank Appleton's death, Agent Saville requested that
 troops be sent to Red Cloud Agency, but his communications, sent to
 Colonel Smith at Fort Laramie, were contradictory ones. He told Colonel
 Smith that Crazy Horse had declared for war. Saville also told the
@@ -202,31 +236,31 @@ Indians. However, he admitted that Indian scouts were stationed all
 along the Platte.
 
 A request for troops to be stationed at the agency was an admission of
-the failure of the Peace Policy. Saville’s reluctance to ask for help
+the failure of the Peace Policy. Saville's reluctance to ask for help
 was apparently overcome by his alarm over the serious troubles at the
 agency. His action was later investigated and approved by Bishop Hare.
 
-The Sioux Expedition was organized by the Army in response to Saville’s
+The Sioux Expedition was organized by the Army in response to Saville's
 request for troops. The arrival of the troops at the agency was delayed
 by the intense cold, but the tension there had eased enough that
 officers, as well as Saville himself, felt that they could hold out
 until the soldiers arrived.
 
-Cold weather was not the Army’s only problem; the call for extra
+Cold weather was not the Army's only problem; the call for extra
 supplies and ammunition had caught them unprepared. Two hundred rounds
 of ammunition per man were specified in the orders. To get this amount,
 Fort Leavenworth was drained of supplies, and requisitions had to be
 forwarded to Frankfort Arsenal. The lack of ammunition set off some
 bitter correspondence between responsible officers. The Chief of
-Ordnance reported to the Adjutant General “... that the want of
+Ordnance reported to the Adjutant General "... that the want of
 ammunition in the present seeming emergency can not be attributed to the
 failure of this bureau to provide, but rather to the neglect of the
-users to make the proper requisition at the proper time.”[8]
+users to make the proper requisition at the proper time."[8]
 
 The Sioux Expedition got under way when eight infantry and four cavalry
 companies marched from Fort D. A. Russell, Wyoming Territory, to Fort
 Laramie. The troops reached Fort Laramie on February 26 and 27, 1874
-after suffering severely from frost bite in the 38° below zero cold. At
+after suffering severely from frost bite in the 38� below zero cold. At
 Fort Laramie four more companies of cavalry were added to the
 expedition. At Fort D. A. Russell the Sioux Expedition had been divided
 into two battalions, one cavalry and one infantry.[9]
@@ -236,8 +270,8 @@ The 547 cavalrymen, led by Major Baker, left Fort Laramie on March 2,
 battalion of 402 infantrymen left Fort Laramie on March 3, arriving at
 the agency on the seventh. Each battalion had a Gatling gun, and the
 column was provisioned by a supply train of fifty civilian and seventy
-government wagons. The supply train carried ten days’ rations and five
-days’ forage and included a beef herd.
+government wagons. The supply train carried ten days' rations and five
+days' forage and included a beef herd.
 
 Generals Sheridan and Ord were on hand for the departure of the Sioux
 Expedition from Fort Laramie. The officers considered keeping the
@@ -291,21 +325,21 @@ declared the north bank of the White River a deadline for all white men,
 thus making necessary a longer wagon haul for needed wood supplies.
 
 The hostiles broke camp on Hat Creek and moved to Spotted Tail Agency.
-Colonel Forsyth’s official report of the Sioux Expedition lists Lone
+Colonel Forsyth's official report of the Sioux Expedition lists Lone
 Horn of the North, White Bull, Roman Nose and Stooping Bear as the
 principal chiefs among the northern Indians at Spotted Tail Agency. The
 principal warriors among this faction were also listed by Colonel
 Forsyth; they were Turtle Ribs, Thunder Hawk, High Bear, Dog Back, and
 Crazy Horse.[12] Despite the return of the hostiles, the relative quiet
 at the agencies and ease of occupation by the troops prompted General
-Sheridan erroneously to predict “any war we may have with Sioux Indians
-will be simply the pursuit of small raiding parties.”[13]
+Sheridan erroneously to predict "any war we may have with Sioux Indians
+will be simply the pursuit of small raiding parties."[13]
 
 
                              CAMP ROBINSON
 
 Difficulties continued at Red Cloud. Interpreter Rowland, who had
-delivered Saville’s message calling for troops, attempted to conceal his
+delivered Saville's message calling for troops, attempted to conceal his
 part in the arrival of the Sioux Expedition but was unable to do so. A
 Cheyenne, Crawls in the Water, attempted to shoot Rowland but was
 himself killed. Rowland fled to the military camp for protection, and
@@ -320,20 +354,20 @@ arms, and the daily wood train was under heavy escort.
 Gradually the Indians became more reconciled to the presence of troops,
 and when the annual Sun Dance was held at Red Cloud in the early summer,
 Lieutenant Carter was able to arrange for J. Tavernier, a French artist
-employed by _Harper’s Weekly_, to attend the dance. Unfortunately,
+employed by _Harper's Weekly_, to attend the dance. Unfortunately,
 lightning struck the sacred pole during the height of the ceremonies.
 This was interpreted by the Indians as supernatural disapproval of their
 visitors, and the artist and officer hastily left the scene.
 
 The infantry at Camp Robinson had their camp alongside the agency
-stockade while Lt. Emmet Crawford’s troop of Third Cavalry camped a
+stockade while Lt. Emmet Crawford's troop of Third Cavalry camped a
 short distance away in the bottomlands of the White River. By spring it
 was evident that the location of Camp Robinson in close proximity to Red
 Cloud Agency was not an ideal arrangement. Daily contact invited
 friction between soldiers and Indian warriors, but an even more serious
 problem was the lack of sufficient grass for the cavalry horses. When
-warm weather made the rotting refuse of butchered issue beef “difficult
-to bear” the need for relocating the encampment became critical. In May
+warm weather made the rotting refuse of butchered issue beef "difficult
+to bear" the need for relocating the encampment became critical. In May
 1874 Colonel Smith moved Camp Robinson a mile and a half west of the
 agency; there near the confluence of Soldier Creek and the White River
 the permanent post was later built. The troops remained in tents
@@ -357,7 +391,7 @@ to Camp Robinson.
 About midnight the Indians made an attempt to rescue the prisoner by
 attacking the military camp. The soldiers formed a skirmish line and
 moved out towards the flashing Indian guns. The warriors fell back in
-the face of the soldiers’ gunfire and the troops withdrew to their camp
+the face of the soldiers' gunfire and the troops withdrew to their camp
 only to discover that their entire supply of beef on the hoof had been
 driven off by other Indians during the brief engagement. Lieutenant
 Crawford and the cavalry troop recovered a large number of the stolen
@@ -396,9 +430,9 @@ issued orders to start cutting logs and to begin construction of
 barracks. Ten wagons and sixty mules were employed in hauling materials,
 and the sawmill at Red Cloud Agency was made available for use by the
 troops. By November, although barracks and urgently needed warehouses
-were ready, only two sets of the adobe officers’ quarters were
-completed. The post surgeon complained bitterly of “criminal
-neglect”[14] when the delivery of heating stoves was unnecessarily
+were ready, only two sets of the adobe officers' quarters were
+completed. The post surgeon complained bitterly of "criminal
+neglect"[14] when the delivery of heating stoves was unnecessarily
 delayed.
 
 The northern hostiles, absent during much of the summer, began returning
@@ -446,12 +480,12 @@ the agent had needlessly put the soldiers in a very serious position.
 
 Whether or not it had anything to do with the flagpole incident at Red
 Cloud Agency in 1874, the American flag was not raised over Camp
-Robinson until Washington’s Birthday, 1876. The honor of raising the
+Robinson until Washington's Birthday, 1876. The honor of raising the
 flag on that occasion went to Sgt. John Kailey, Ninth Infantry, whose
 twenty-seven years of service were the longest of any man then stationed
 at the post.[16]
 
-Indian Agent Saville’s efforts to get a count of the Indians receiving
+Indian Agent Saville's efforts to get a count of the Indians receiving
 supplies at Red Cloud were finally crowned with success on November 30,
 1874. Two factors combined to produce this result. First, Saville
 announced that no more rations would be issued until the Indians
@@ -459,24 +493,24 @@ submitted to counting. In the face of this threat Old Man Afraid of His
 Horses changed his mind and counting began. He is also reported to have
 compelled Red Cloud to withdraw his opposition. The enumeration revealed
 a total of about 12,000 Indians: 9,339 Sioux, 1202 Cheyenne and 1092
-Arapaho.”[17]
+Arapaho."[17]
 
 Events at the agency and the camp still did not go well. Indian leaders
 were quick to sense the divided opinions of various authorities and
-would complain to the Army officers about the agent’s handling of their
+would complain to the Army officers about the agent's handling of their
 affairs. When officers listened, the agent regarded it as interference
 on the part of the military. Many soldiers did not agree with the aims
 and methods of the Grant Peace Policy of agency administration under
 which various church groups nominated Indian Agents. As one officer put
-it, the efforts were to “civilize these people immediately whether they
+it, the efforts were to "civilize these people immediately whether they
 are willing or not. This may be good church theory but it is very
 impractical. These Indians had better by far be left alone at their
 agency than to be forced into hostilities by being forced to accept
-civilization and a religion they can’t understand and don’t want to
-understand.”[18] Another officer assessed the plans to convert the Sioux
-to peaceful farmers in the following way: “... it is not easy to see how
+civilization and a religion they can't understand and don't want to
+understand."[18] Another officer assessed the plans to convert the Sioux
+to peaceful farmers in the following way: "... it is not easy to see how
 they are to become farmers when they have no good farming land to work
-on....”[19]
+on...."[19]
 
 Red Cloud Agency had many visitors, including Professor O. C. Marsh
 whose paleontological expedition into the nearby fossil area was
@@ -485,7 +519,7 @@ focusing national attention on Red Cloud Agency. In the course of
 securing permission of the Indians to excavate fossils in their land
 Marsh became acquainted with Chief Red Cloud. He was given samples of
 particularly foul supplies which he was told were normal issue goods.
-The professor’s evidence of frauds at the agency was given wide
+The professor's evidence of frauds at the agency was given wide
 publicity, and Red Cloud Agency became a political as well as a military
 hot-spot. A full scale investigation of agency affairs followed, and
 newspaper accounts of the hearings were full of possible frauds by the
@@ -514,7 +548,7 @@ Henry was ordered to take his troop of Third Cavalry, accompanied by
 Lieutenant Carpenter and fifteen men of the Ninth Infantry, to the Black
 Hills in search of gold miners. They failed to find the miners, but on
 their return the command was caught in a severe blizzard and would have
-perished but for Captain Henry’s leadership. Nearly all of the men were
+perished but for Captain Henry's leadership. Nearly all of the men were
 badly frozen and on their return to Camp Robinson in January 1875 the
 new additions brought the sick list to over 50 per cent of the garrison.
 As late as January 20 Mr. Raymond, the scout, was still in the hospital.
@@ -526,22 +560,22 @@ by Col. R. I. Dodge and eight companies of troops.
 
 Indians were not the only persons contributing to the troubles at Red
 Cloud Agency which occupied the attention of the soldiers from Camp
-Robinson. Many horse thieves such as “Doc” Middleton’s gang hung out in
-the area and stole Indian mounts. The agency became “a mighty tough
-place” according to George Colhoff, an employee at the Yates Trading
-Company. It was a road agents’ rendezvous, with men like Black Doak, Fly
+Robinson. Many horse thieves such as "Doc" Middleton's gang hung out in
+the area and stole Indian mounts. The agency became "a mighty tough
+place" according to George Colhoff, an employee at the Yates Trading
+Company. It was a road agents' rendezvous, with men like Black Doak, Fly
 Speck Billy, Lame Johnny, Paddy Simons, Tom Reed and Herman Leisner
 frequenting the agency between their attacks on the stagecoaches
 traveling the Sidney-Deadwood and Cheyenne-Deadwood trails.[20]
 
 Excitement still prevailed at Red Cloud Agency during the winter of
 1875-76 when the agent, Hastings, reported considerable trouble with
-whiskey runners. Some of the Army’s valuable scouts, Big Bat Pourier and
+whiskey runners. Some of the Army's valuable scouts, Big Bat Pourier and
 Frank Grouard, were involved in fights at the agency as well. The camp
 Robinson mail carriers were killed by Indians on December 25, 1876, and
 in the spring (1876) Indians not only ran off the agency beef herd in
 broad daylight but killed Charles Clarke, the civilian mail driver, near
-the White River. Agency trader J. W. Dear recovered Clarke’s body and
+the White River. Agency trader J. W. Dear recovered Clarke's body and
 mentioned in a description of the affair that the Indians had also run
 off stock at his ranch and attacked the wagon train of the Yates Trading
 Company.
@@ -557,7 +591,7 @@ Cloud Agency.
 
 The first meeting of the commission was held on September 17 in the
 council room of the agency, but the Indians refused to attend, saying
-they would sign no treaty under duress. Despite Spotted Tail’s warnings
+they would sign no treaty under duress. Despite Spotted Tail's warnings
 of possible trouble, the commission agreed to move the treaty site to a
 point some eight miles east of Camp Robinson where a meeting was held
 under a lone cottonwood tree. The assembled throng of Indians numbered
@@ -573,16 +607,16 @@ selling the Black Hills but just as Red Cloud began to make his oration
 Little Big Man, armed to the teeth, threatened to shoot the first Indian
 who spoke in favor of ceding the Black Hills to the white men. Spotted
 Tail advised the commissioners to return to the safety of Camp Robinson
-immediately—advice which they took.
+immediately--advice which they took.
 
 The dismal failure of the treaty effort almost assured a war with the
-hostile Sioux. The coming campaigns were to be led by the Army’s supreme
+hostile Sioux. The coming campaigns were to be led by the Army's supreme
 Indian fighter, General George Crook, who had taken command of the
 critical Department of the Platte the previous spring and had
 immediately set about to bring the companies of the Third Cavalry up to
 full strength.
 
-General Crook’s first campaign against the hostiles was no more
+General Crook's first campaign against the hostiles was no more
 successful than the Black Hills treaty efforts had been. When cavalrymen
 led by Colonel Reynolds attacked and managed to destroy the greater part
 of a hostile camp on the Little Powder River on March 17, 1876 they were
@@ -596,15 +630,15 @@ resistance.
 With the spring campaigns inconclusive, Crook prepared for the summer.
 The summer campaign of 1876 was designed to trap the hostiles between
 three columns: Gibbon from the west, Terry and Custer from the east, and
-Crook from the south. Crook’s force numbered 1,774 men and Terry had
+Crook from the south. Crook's force numbered 1,774 men and Terry had
 1,873. To raise these columns all posts in the Departments of the Platte
-and Dakota were stripped of their garrisons. Crook’s column met Crazy
+and Dakota were stripped of their garrisons. Crook's column met Crazy
 Horse and the hostiles on June 17, 1876 in the Battle of Rosebud Creek
 and, although the General claimed a victory when the Indians left the
 field, he fell back to his base camp to await reinforcements. On June 25
 at the Little Big Horn, Sitting Bull, Crazy Horse, and Black Moon led
-the same hostiles and crushed Custer’s command. Even before the Omaha
-Military Headquarters had heard of Custer’s defeat, the Indians at Red
+the same hostiles and crushed Custer's command. Even before the Omaha
+Military Headquarters had heard of Custer's defeat, the Indians at Red
 Cloud Agency were discussing it. Frank Yates, one of the traders at the
 agency, was a brother of the Captain Yates who fell with Custer. When
 the rumors were reported to him he went to Camp Robinson where officers
@@ -619,7 +653,7 @@ The Indians claimed to be going on a buffalo hunt, but it was feared
 that they were attempting to join the victorious hostiles. Met by the
 troops, the Indians were forced to return to the agency after a brief
 skirmish. During the fighting Yellow Hand was killed by gunfire and the
-scout “Buffalo Bill” Cody took his scalp in an incident which was later
+scout "Buffalo Bill" Cody took his scalp in an incident which was later
 much publicized and embellished.
 
 The great Indian victories brought an end to the Peace Policy, and on
@@ -630,11 +664,11 @@ Agency. In August the officers discovered a serious shortage in Indian
 Department funds and the Army had to loan needed supplies for issue to
 the Indians at the agency.
 
-Crook’s column remained in the field throughout the summer, following
+Crook's column remained in the field throughout the summer, following
 the battles of the Rosebud and the Little Big Horn. In September, while
 marching towards the Black Hills, Crook found that his supplies were
-exhausted, and his men ate their dying mounts in the famed “Horsemeat
-March.” A small detachment was sent ahead to obtain supplies. Led by
+exhausted, and his men ate their dying mounts in the famed "Horsemeat
+March." A small detachment was sent ahead to obtain supplies. Led by
 Capt. Anson Mills and including Lieutenant Crawford of the Third
 Cavalry, the advance party discovered and captured a Sioux camp in the
 Battle of Slim Buttes, obtaining a considerable supply of meat.
@@ -655,14 +689,14 @@ bring the companies up to strength. Colonel Forsyth reported some
 companies consisted of nearly two-thirds recruits, owing to recent
 discharges of disabled soldiers.
 
-For the brief period when the men of both Crook’s and Mackenzie’s
+For the brief period when the men of both Crook's and Mackenzie's
 commands were there, Camp Robinson and its cantonments were very
 crowded. General Crook took advantage of the temporary presence of the
 fifty-three companies of troops at the post to hold a conference with
 Indian leaders at Red Cloud Agency and in no uncertain terms demanded
 loyal behavior of them.
 
-Upon the arrival of Mackenzie’s forces, Red Cloud and Red Leaf had moved
+Upon the arrival of Mackenzie's forces, Red Cloud and Red Leaf had moved
 their camps some twenty-five miles away from the agency to Chadron
 Creek. In October, in preparation for the coming winter campaign,
 Colonel Mackenzie sent two battalions of cavalry and the newly arrived
@@ -680,8 +714,8 @@ begin. In the meantime General Miles transported fresh troops to the
 northern plains by Missouri River steamboat. Miles fought several
 engagements with Sitting Bull and Crazy Horse. Crook sent Mackenzie and
 the cavalry and Pawnee Scouts on ahead of his main column and in late
-November they routed and destroyed Dull Knife’s Cheyenne village, moving
-relentlessly to crush the hostiles’ resistance.
+November they routed and destroyed Dull Knife's Cheyenne village, moving
+relentlessly to crush the hostiles' resistance.
 
 In September 1876, long before the winter victories, the successful
 purchase of the Black Hills was negotiated by a new commission headed by
@@ -712,7 +746,7 @@ Emissaries to the hostile camps brought back word that Crazy Horse was
 on the way in and on May 6, 1877 he and his followers, 889 men, women
 and children, surrendered at Camp Robinson. They gave up some 2,000
 ponies, and the 217 men turned in 117 guns and pistols. The impressive
-surrender march of Crazy Horse’s band was described by the officer who
+surrender march of Crazy Horse's band was described by the officer who
 met the hostiles:
 
   When the Sioux Chief Crazy Horse came in and surrendered in 1877, he
@@ -729,7 +763,7 @@ met the hostiles:
 
 What to do with the surrendering hostiles was a problem. Crazy Horse and
 some of the other warriors were enrolled as scouts, and a grand review
-was held for General Crook. Nevertheless, in General Sheridan’s opinion
+was held for General Crook. Nevertheless, in General Sheridan's opinion
 these hostiles should be given the same treatment as troublesome Kiowa
 and Cheyenne warriors who had been imprisoned at Fort Marion, near St.
 Augustine, Florida, following previous campaigns.
@@ -750,7 +784,7 @@ meeting, and when Young Man Afraid of His Horses suggested that the
 feast be held at the camp of Crazy Horse and Little Big Man no one
 objected, but Red Cloud and his followers left the council room. Later
 that night the Red Cloud faction voiced their objections to feasting at
-Crazy Horse’s camp to Agent Irwin. They said Crazy Horse was
+Crazy Horse's camp to Agent Irwin. They said Crazy Horse was
 unreconstructed, tricky, unfaithful and waiting for his chance to escape
 from the agency. Because the possibility that the hostiles would flee,
 rejoin Sitting Bull in Canada, and begin the war anew was not a pleasant
@@ -767,19 +801,19 @@ campaign, this time the outbreak of Chief Joseph and the Nez Perce
 tribe. Efforts were made to obtain Indian scouts for the new campaign
 from among the former hostiles at Red Cloud Agency. At first Crazy Horse
 opposed their enlistment on the grounds that they would be used to fight
-Sitting Bull and their Sioux friends rather than Chief Joseph’s people.
+Sitting Bull and their Sioux friends rather than Chief Joseph's people.
 Finally Crazy Horse consented to fight the Nez Perce but Frank Grouard,
 acting as interpreter, made an error in translation and reported that
 Crazy Horse said he would fight until not a white man was left. Whether
 this error was an honest mistake or a deliberate one,[23] the
 mistranslation reinforced the rumors that Crazy Horse planned to murder
 Crook and other officers and that he planned to go on the warpath again.
-General Crook directed that the famed warrior be apprehended and “sent
-out of harms way.”[24]
+General Crook directed that the famed warrior be apprehended and "sent
+out of harms way."[24]
 
 A cavalry battalion from Camp Robinson and a large party of Indians
-(including Crazy Horse’s personal enemy, No Water, with whom he had had
-a squabble over a woman) rode to Crazy Horse’s camp nearby to arrest
+(including Crazy Horse's personal enemy, No Water, with whom he had had
+a squabble over a woman) rode to Crazy Horse's camp nearby to arrest
 him. They succeeded in capturing many of his band, but Crazy Horse
 escaped and fled to Spotted Tail Agency, seeking refuge in the camp of
 his friend Touch the Clouds. His arrival caused considerable excitement
@@ -796,9 +830,9 @@ position was not a strong one.
 The crowd finally was dispersed and Lee and a few others had a
 conference with Crazy Horse who explained his desire to transfer to the
 Spotted Tail Agency. An attempt was made by interpreter Louis Bordeaux
-to correct Grouard’s mistranslation of Crazy Horse’s statement about
+to correct Grouard's mistranslation of Crazy Horse's statement about
 fighting the Nez Perce. Lieutenant Lee and Major Burke assured Crazy
-Horse that he would not be harmed. In response to Lee’s persuasion Crazy
+Horse that he would not be harmed. In response to Lee's persuasion Crazy
 Horse agreed to return to Camp Robinson the next day on condition that
 he be allowed to explain how he had been misunderstood and
 misinterpreted and that he wanted peace, not trouble. By this time,
@@ -806,18 +840,18 @@ however, most officers, particularly those at Camp Robinson, completely
 distrusted him.
 
 On their arrival at Camp Robinson, the post commander, Colonel Bradley,
-refused to hold a council with Crazy Horse despite Lee’s efforts to
-arrange one. Bradley’s orders gave him no alternative except to imprison
+refused to hold a council with Crazy Horse despite Lee's efforts to
+arrange one. Bradley's orders gave him no alternative except to imprison
 Crazy Horse, and an effort was made to put him in the guardhouse. When
 he saw the cells inside Crazy Horse drew a knife and attempted to free
 himself but he was bayoneted by one of the guards during the struggle.
 Little Big Man was injured while trying to restrain Crazy Horse. Both
 friendly and hostile Indians were in the excited crowd of witnesses, and
-the friendly Indians prevented Crazy Horse’s friends from firing at the
+the friendly Indians prevented Crazy Horse's friends from firing at the
 guard. When another attempt to put the mortally wounded warrior into the
 guardhouse was made, the Indians seemed so close to an outbreak that
-Colonel Bradley reluctantly agreed to Surgeon McGillycuddy’s suggested
-compromise and Crazy Horse was taken next door to the adjutant’s office
+Colonel Bradley reluctantly agreed to Surgeon McGillycuddy's suggested
+compromise and Crazy Horse was taken next door to the adjutant's office
 where he died shortly before midnight on September 5, 1877.[25]
 
 Great excitement developed among the Indians around Camp Robinson as a
@@ -836,11 +870,11 @@ After Crazy Horse was killed the plan to relocate Red Cloud Agency on
 the Missouri River went ahead rapidly. On October 25, 1877 the move was
 begun, with troops from Camp Robinson escorting the Red Cloud Indians
 and those from Camp Sheridan escorting the Spotted Tail Indians and the
-hostiles of the late Crazy Horse’s camp. Although seemingly subdued, the
+hostiles of the late Crazy Horse's camp. Although seemingly subdued, the
 hostiles still managed to embarrass the soldiers. Before the two columns
 had proceeded very far the northern Indians broke away from the Spotted
 Tail column and joined the Red Cloud group. Then they broke away from
-that column, and, carrying Crazy Horse’s bones, fled north to join
+that column, and, carrying Crazy Horse's bones, fled north to join
 Sitting Bull in Canada, pausing on the way to raid in the Black Hills
 and along the Bismarck stage line. The first report was that some 1,700
 Indians had escaped, but a recheck cut the figure to 800.
@@ -860,7 +894,7 @@ Camp Robinson was renamed Fort Robinson in January 1878. It remained an
 important post and its garrison was called upon in several Indian
 emergencies after the death of Crazy Horse.
 
-Garrison life was normal at the post, with the officers’ families
+Garrison life was normal at the post, with the officers' families
 joining them as soon as quarters were available. The first women to come
 to live at Camp Robinson in the winter of 1874-1875 were the wives of
 Capt. W. H. Jordan, the post commander, and Lt. J. M. Lee, both Ninth
@@ -871,77 +905,77 @@ horseback rides, visits to Indian camps and dances, and fossil hunting
 in the nearby Bad Lands. Company dances were held with some regularity
 and social calling was an important part of the daily routine of
 officers and their ladies. Not all of the women were well impressed by
-the post. When Surgeon Valentine T. McGillycuddy’s wife joined him at
-Camp Robinson on December 13, 1876 she noted in her diary: “Commenced
-enjoying the camp. Finished.”[27] Mrs. McGillycuddy later tempered this
+the post. When Surgeon Valentine T. McGillycuddy's wife joined him at
+Camp Robinson on December 13, 1876 she noted in her diary: "Commenced
+enjoying the camp. Finished."[27] Mrs. McGillycuddy later tempered this
 first judgment of the post with diary entries that indicate her
 enjoyment of horseback rides and social calls by such notables as
-General Crook. Surgeon McGillycuddy’s wife even went along with her
+General Crook. Surgeon McGillycuddy's wife even went along with her
 husband and a detachment of troops on an extended stay in the Black
 Hills in 1877.
 
 The officers often entertained prominent Indian chiefs like Spotted Tail
 and Red Cloud, inviting such leaders to join them for lunch. Lt. John G.
-Bourke, General Crook’s aide, spent hours learning Indian languages from
+Bourke, General Crook's aide, spent hours learning Indian languages from
 his native friends. Bourke once had an amusing contest with the Cheyenne
 medicine man High Wolf. Lieutenant Bourke used an old static electricity
 generator to deliver a shock to Indians he tempted to reach into a pail
 of water. The trap was baited with coins. In imitation of songs sung by
-Indian medicine men, Bourke sang “Pat Malloy” while operating the
-generator and acquired a reputation for having powerful “medicine.” A
+Indian medicine men, Bourke sang "Pat Malloy" while operating the
+generator and acquired a reputation for having powerful "medicine." A
 challenge match was arranged to test the relative powers of Bourke and
 High Wolf. There was a liberal prize and side bets by spectators. High
 Wolf received such a strong electrical charge on his first attempt that
-he fell and damaged Bourke’s machine. He shrewdly demanded a second
+he fell and damaged Bourke's machine. He shrewdly demanded a second
 chance and won the contest.
 
 Despite the efforts of the post surgeon, medical care was sometimes
 inadequate to cope with the hazards of the frontier; an August whooping
 cough epidemic in 1876 claimed the lives of two children at Camp
 Robinson and was much more severe in the nearby Indian camps. The post
-surgeon noted in his medical history that “among the remedies employed
-vaccination has seemed to be very serviceable.”[28]
+surgeon noted in his medical history that "among the remedies employed
+vaccination has seemed to be very serviceable."[28]
 
 Some deaths at Fort Robinson were due to disease or natural causes,
 while others were the result of violence. The first burial at Camp
 Robinson, on July 3, 1875, was that of Pvt. James Brogan, Company A,
-Ninth Infantry, who died of “congestion of the brain.” Several victims
-of gunfights were also buried in the post cemetery. In 1876 “California
-Joe” (Moses Milner), a civilian hired as a scout for the Mackenzie
+Ninth Infantry, who died of "congestion of the brain." Several victims
+of gunfights were also buried in the post cemetery. In 1876 "California
+Joe" (Moses Milner), a civilian hired as a scout for the Mackenzie
 expedition, was shot and killed by Tom Newcomb. The killing was the
-result of the scout’s efforts to publicly blame Newcomb for a murder he
+result of the scout's efforts to publicly blame Newcomb for a murder he
 himself had probably committed. Sgt. Frank Owens, Ninth Infantry, killed
 Pvt. Eugene Carlton of his company while at a ranch nearby, and Surgeon
 McGillycuddy was unable to save the life of a Sergeant Casey mortally
 wounded by a trooper at Camp Canby.
 
 The main center of entertainment for the men of the garrison was the
-post trader’s store and saloon. When the Sioux Expedition first
+post trader's store and saloon. When the Sioux Expedition first
 established Camp Robinson, Mr. John T. Collins, post trader at Fort
 Laramie, was appointed acting trader by the expedition commander Col.
 John Smith. Later Major Paddock became post trader at Camp Robinson and
-held the position until the 1890’s. In efforts to control the results of
+held the position until the 1890's. In efforts to control the results of
 drinking sprees which accounted for most of the courtmartial offenses,
 the post trader at Camp Robinson was required to keep a list of men
 buying drinks. Enlisted men were allowed only two drinks a day and those
 were to be three hours apart. Unauthorized sources of whiskey and
 entertainment, available just off the military reservation, made
 enforcement of this rule difficult. Holidays were marked by excesses
-among officers as well as enlisted men; Mrs. McGillycuddy’s diary
-records, in connection with the New Year period in 1876, “Outfit all
-drunk.”[29]
+among officers as well as enlisted men; Mrs. McGillycuddy's diary
+records, in connection with the New Year period in 1876, "Outfit all
+drunk."[29]
 
 Standards of discipline changed with commanding officers. When he became
 post commander at Camp Robinson Colonel Mackenzie directed that the
-officers’ billiard room in the post trader’s store would be closed and
+officers' billiard room in the post trader's store would be closed and
 no cards or billiards would be played on Sundays. Court-martials of
 enlisted men were frequent and punishment sometimes went beyond simple
 hard labor. One thirty day sentence provided that for twelve days the
-prisoner was to “stand on a barrel from reveille to retreat allowing one
-half hour for each meal.” Some sentences were for relatively minor
+prisoner was to "stand on a barrel from reveille to retreat allowing one
+half hour for each meal." Some sentences were for relatively minor
 infractions. At Camp Sheridan a musician was court-martialed for
-disobeying an order relative to the key in which he played “First
-Call.”[30] Men of the garrison worked six days a week, their routine
+disobeying an order relative to the key in which he played "First
+Call."[30] Men of the garrison worked six days a week, their routine
 beginning and ending with the rising and setting sun. On Sunday morning
 there was a full dress parade and inspection.[31]
 
@@ -953,8 +987,8 @@ twice a day; steak for breakfast and roast for lunch, with the evening
 meal consisting of pancakes or stewed dried apples. Both officers and
 men could purchase additional foods at the post commissary which carried
 canned tomatoes, raisins, hams and other items. In addition to post
-trader Paddock’s store at Camp Robinson, Clay Dear’s store at Camp Canby
-and J. W. Dear’s at Red Cloud Agency were sources of delicacies. Mrs.
+trader Paddock's store at Camp Robinson, Clay Dear's store at Camp Canby
+and J. W. Dear's at Red Cloud Agency were sources of delicacies. Mrs.
 McGillycuddy describes her efforts to obtain oysters from these
 suppliers.
 
@@ -966,14 +1000,14 @@ and formed the noncommissioned core of the Army. Sergeants and corporals
 often had to back up their commands with more than their chevrons when
 dealing with unruly members of the ranks. One sergeant of the guard at
 Fort Robinson so stoutly enforced his commands that the recalcitrant
-private died of a fractured skull.[32] The sergeant’s action was
+private died of a fractured skull.[32] The sergeant's action was
 vindicated by a court inquiry.
 
 The officers were an experienced group and devoted to an Army career.
 Many had risen, like Guy V. Henry, to the rank of general during the
 Civil War, only to revert to their regular rank when the Army was
-reduced to its “peacetime” Indian War size of about 25,000 men. Others
-came “up from the ranks,” as Emmet Crawford who fought through the War
+reduced to its "peacetime" Indian War size of about 25,000 men. Others
+came "up from the ranks," as Emmet Crawford who fought through the War
 between the States as an enlisted man and noncom and was then
 commissioned. John G. Bourke graduated from West Point after serving
 through the Civil War as a private.
@@ -1010,7 +1044,7 @@ Railroads. General Crook ordered General Bradley at Fort Robinson to
 form a third line of defense. Along with soldiers from Camp Sheridan and
 other posts the Fort Robinson garrison patrolled the sandhills area of
 Nebraska. Finally a group of 149 men, women and children led by Dull
-Knife were met and taken into custody by Captain Johnson’s Company from
+Knife were met and taken into custody by Captain Johnson's Company from
 Fort Robinson.
 
 The Cheyenne had planned to seek refuge among their Sioux friends at Red
@@ -1053,7 +1087,7 @@ Indians were killed or captured.
 
 About sixty-four Cheyenne died in the outbreak and many others were
 wounded before being captured. Eleven soldiers were killed and ten
-wounded along with the Sioux Indian scout, Woman’s Dress. In the medical
+wounded along with the Sioux Indian scout, Woman's Dress. In the medical
 history Post Surgeon E. B. Mosely wrote:
 
   During this whole period the fighting was of the most desperate
@@ -1066,7 +1100,7 @@ history Post Surgeon E. B. Mosely wrote:
   warriors on the Plains. The conduct of the white troops is worthy of
   the greatest praise. Taken by surprise the first night, they rallied
   in the most prompt manner and followed the flying enemy even
-  barefooted in the deep snow with thermometer at 10° F. until ordered
+  barefooted in the deep snow with thermometer at 10� F. until ordered
   back by their officers.
 
   In the final charge the men advanced under a heavy and fatal fire to
@@ -1079,12 +1113,12 @@ history Post Surgeon E. B. Mosely wrote:
 In terms of the number of casualties and intensity of the fighting the
 Cheyenne Outbreak can be regarded as one of the major battles of the
 Indian Wars,[34] Many of the Cheyenne had been fighting for, rather than
-against, the Army only two years before. “Among these Indians,” wrote
-General Crook “were some of the bravest and most efficient of the
+against, the Army only two years before. "Among these Indians," wrote
+General Crook "were some of the bravest and most efficient of the
 auxiliaries who have acted under General Mackenzie and myself in the
 campaign against the hostile Sioux in 1876 and 1877, and I still
 preserve a grateful remembrance of their distinguished services of which
-the government seems to have forgotten.”[35]
+the government seems to have forgotten."[35]
 
 When the Indians were removed from northwestern Nebraska, ranchers moved
 in and established big cattle ranches in the desirable lands by 1878.
@@ -1099,17 +1133,17 @@ carefully mark the boundaries of the military wood reserve to prevent
 its settlement. Rancher-homesteader conflicts developed, but the
 presence of Fort Robinson was a big factor in preventing a large scale
 range war. The Fort was also a source of assistance to the settlers. For
-example, “Old Jules” Sandoz was treated in the post hospital by the
+example, "Old Jules" Sandoz was treated in the post hospital by the
 Surgeon, Walter Reed. The town of Crawford was founded at the boundary
 of the Fort Robinson reservation and profited from military
 business.[36]
 
-A typical “wild-west” town, Crawford and its entertainment facilities
+A typical "wild-west" town, Crawford and its entertainment facilities
 caused many a headache for the post commander who was forced to cancel
-the practice of allowing the cavalrymen to have “mounted” passes during
+the practice of allowing the cavalrymen to have "mounted" passes during
 off-duty hours. One Ninth Cavalryman was sentenced to a year at hard
-labor for riding his horse into a Crawford saloon during a “frolic.” In
-1906 a 10th cavalry trooper killed Art Moss, one of the town’s law
+labor for riding his horse into a Crawford saloon during a "frolic." In
+1906 a 10th cavalry trooper killed Art Moss, one of the town's law
 officers, in a gunfight. During one eighteen month period three soldiers
 from the post, one a holder of the Congressional Medal of Honor, were
 murdered in the vicinity. All three crimes went unpunished.[37]
@@ -1124,7 +1158,7 @@ function and it became a regimental headquarters cavalry post.
 
 Actually the summer of 1885 saw the beginning of this change at Fort
 Robinson, when the first elements of the Ninth Cavalry arrived to
-garrison the post. The Ninth was one of the Army’s two all-Negro cavalry
+garrison the post. The Ninth was one of the Army's two all-Negro cavalry
 regiments.[38] The men of the Ninth continued the routine tasks of
 repairing telegraph lines, patrolling the area, and pursuing stage-coach
 and train robbers as well as carrying out their usual military training.
@@ -1143,7 +1177,7 @@ and train robbers as well as carrying out their usual military training.
   2. Red Dog.
   3. J. Tavernier, artist.
 
-    [Illustration: Post Sutler’s Store, Fort Robinson. Courtesy of
+    [Illustration: Post Sutler's Store, Fort Robinson. Courtesy of
     Denver Public Library Western Collection.]
 
     [Illustration: Saloon at Fort Robinson. Courtesy of Denver Public
@@ -1175,16 +1209,16 @@ and train robbers as well as carrying out their usual military training.
     [Illustration: Captain Guy V. Henry.]
 
     [Illustration: Troop I, 6th Cavalry, 1897, near Saddle Rock and
-    Lovers’ Leap.]
+    Lovers' Leap.]
 
     [Illustration: Old Parade Grounds, 1897: buildings left to right
-    include 1874 Adjutant’s Office where Crazy Horse died, 1884
+    include 1874 Adjutant's Office where Crazy Horse died, 1884
     Guardhouse, and 1874 Guardhouse where Crazy Horse was wounded.]
 
-    [Illustration: Commanding Officer’s Quarters, constructed in 1884.
-    Early 1890’s home of Col. Adna R. Chaffee.]
+    [Illustration: Commanding Officer's Quarters, constructed in 1884.
+    Early 1890's home of Col. Adna R. Chaffee.]
 
-    [Illustration: Retreat—evening gun, fired by 10th Cavalry (Negro)
+    [Illustration: Retreat--evening gun, fired by 10th Cavalry (Negro)
     troopers, 1907.]
 
     [Illustration: Infantry Company in front of 1887 barracks ca. 1898.]
@@ -1193,7 +1227,7 @@ and train robbers as well as carrying out their usual military training.
     Fort Laramie National Historic Site.]
 
     [Illustration: Celebration in front of Post Headquarters on Red
-    Cloud’s last visit, 1906.]
+    Cloud's last visit, 1906.]
 
     [Illustration: Field Music at Fort Robinson ca. 1900. Courtesy Fort
     Laramie National Historic Site.]
@@ -1209,7 +1243,7 @@ and train robbers as well as carrying out their usual military training.
 
     [Illustration: Guardhouse prisoners work detail, March 1898.]
 
-    [Illustration: Social calls were important. On porch of officers’
+    [Illustration: Social calls were important. On porch of officers'
     quarters are: Commanding Officer, Colonel James Biddle, far left.
     Captain Philip Pendleton Powell, right, standing.]
 
@@ -1288,11 +1322,11 @@ supplies were also forwarded from the post when needed.
 The Ghost Dance troubles culminated in the Battle of Wounded Knee on
 December 29, 1890. Casualties in this battle were quite heavy, both
 among the troopers of the Seventh Cavalry and the Indian men, women and
-children of Big Foot’s band. Fort Robinson’s post scout, Little Bat,
+children of Big Foot's band. Fort Robinson's post scout, Little Bat,
 acted as an interpreter and helped to disarm the Indians when the well
 known battle began.
 
-Under Major Henry’s leadership the Ninth Cavalry made several long
+Under Major Henry's leadership the Ninth Cavalry made several long
 forced marches at the height of the troubles and although they did not
 see action in the battle of Wounded Knee they did fight a skirmish a few
 days later when, in classic movie style, they arrived on the scene in
@@ -1308,7 +1342,7 @@ garrison life at Fort Robinson settled back to training, garden tending,
 and policing the post, with few breaks in the routine.
 
 In 1892 the Ninth Cavalry, accompanied by post scouts Little Bat
-Garnier, Woman’s Dress, Yankton Charlie, White Antelope, and Joe
+Garnier, Woman's Dress, Yankton Charlie, White Antelope, and Joe
 Mosseau, spent the months from June until October in the field at Camp
 Bettens, Wyoming.
 
@@ -1316,7 +1350,7 @@ In 1897 an interesting report on recent minor tactical maneuvers at Fort
 Robinson was submitted. It described the mounting of Lt. M. A. Batson
 and two enlisted men on high wheel Columbia bicycles and the results of
 a rugged test of their ability to keep pace with mounted troops in the
-field. The bicycle-mounted men had “great difficulty” in keeping up with
+field. The bicycle-mounted men had "great difficulty" in keeping up with
 cavalry in rough terrain but over rolling ground were able to
 outdistance the horsemen. However, the report concluded that day in and
 day out the bicycle men would not be able to perform as required. One of
@@ -1350,10 +1384,10 @@ Training Center was planned for the Fort, but the war ended before it
 could be established.
 
 After the war, in 1919, the post became a Quartermaster Remount Depot.
-It eventually developed into the world’s largest remount station, with
+It eventually developed into the world's largest remount station, with
 thousands of horses and mules. At the Remount Depot horses were
 received, conditioned, and issued to Army units and civilian breeders.
-Some breeding of horses was also carried on at the post as a breeder’s
+Some breeding of horses was also carried on at the post as a breeder's
 demonstration as well as to prove certain stallions. Many famous race
 horses were at the depot after their racing careers ended and the 1936
 U. S. Olympic Equestrian team trained at the Fort Robinson Remount
@@ -1373,7 +1407,7 @@ saddle. One such test was a five hundred mile march to the Black Hills
 and return, during which they hauled a mountain howitzer to the top of
 Harney Peak.
 
-In World War II Fort Robinson’s remount activities were continued and
+In World War II Fort Robinson's remount activities were continued and
 expanded, and thousands of horses and mules were conditioned for
 military service. The post made other contributions to the war effort as
 well. The Fort Robinson War Dog Reception and Training Center was
@@ -1395,7 +1429,7 @@ Several building periods can be identified in the development of Fort
 Robinson. The following description of the old post was written when it
 was under construction in 1874.
 
-  The camp is 160 yards square. Officers’ quarters are on the north,
+  The camp is 160 yards square. Officers' quarters are on the north,
   infantry barracks on the east and west and cavalry barracks, guard
   house and storehouse on the south sides. The barracks are built of
   logs, in panels of 15 feet each. For the infantry they are two in
@@ -1406,12 +1440,12 @@ was under construction in 1874.
   in the same way, but only 90 feet long, for the accommodation of one
   company with mess-room and kitchen like the others. These buildings
   are unceiled, have shingle roofs, log walls, window sashes and are
-  floored. One building 142 by 24 feet, 8¼ feet to eaves, and from eaves
-  to ridge 7½ feet, is built of logs, with shingle roof, and divided
+  floored. One building 142 by 24 feet, 8� feet to eaves, and from eaves
+  to ridge 7� feet, is built of logs, with shingle roof, and divided
   into twelve sets of two rooms each, and occupied as quarters for
   married soldiers and laundresses.
 
-  The officer’s quarters are to be all alike, six sets being authorized
+  The officer's quarters are to be all alike, six sets being authorized
   each 38 feet long by 32 feet wide and 10 feet high, one for the
   commanding officer and five for company officers. They have stone
   foundations,[41] walls of adobe [bricks] and are to be ceiled by
@@ -1423,18 +1457,18 @@ The warehouses, stables, and other buildings of the early post were
 constructed of logs, log slabs, or boards. The first post hospital, a
 log building, was not completed until November 1875, tents and dugouts
 being used to house the sick and the post surgeon until that time. In
-addition to the military buildings there was a post trader’s residence
+addition to the military buildings there was a post trader's residence
 and store-saloon, and next to it a small log building housing a
-photographer’s studio.
+photographer's studio.
 
-The beginning of the new decade in the 1880’s saw some expansion of the
+The beginning of the new decade in the 1880's saw some expansion of the
 post with the construction of another log barracks, an adobe barracks
 for the band, and a residence for the band leader. The replacement of
 the log hospital by a concrete structure and other additions were all
 made before 1886. In 1887 expansion of Fort Robinson, connected with
 projected reduction of Fort Laramie, took place on a newly established
 parade ground, northwest of the original one, along the north side of
-which was constructed a series of duplex adobe brick officers’ quarters,
+which was constructed a series of duplex adobe brick officers' quarters,
 six in number. On the opposite side, adobe brick barracks were built,
 and beyond them new frame cavalry stables. The post commander, Col.
 Edward Hatch, wanted to use fired brick for the new quarters but was
@@ -1443,20 +1477,20 @@ brick. Only a year later a forty hour storm caused the unprotected walls
 of some of the adobe houses to collapse. However, once repaired, they
 proved durable and are still in use today.
 
-In the early 1890’s Fort Robinson was further expanded with the
-construction of additional officers’ quarters in 1891, and the following
+In the early 1890's Fort Robinson was further expanded with the
+construction of additional officers' quarters in 1891, and the following
 year more storehouses and a much needed replacement for the old
 guardhouse were added. New gun sheds, quartermaster stables, wheelwright
-and blacksmith shops also were built in the 1890’s.
+and blacksmith shops also were built in the 1890's.
 
 During this period there were so many families of Ninth Cavalrymen at
 the post that the old log barracks buildings as well as the original
-laundresses’ quarters were being used as dwellings for enlisted men’s
-families. Some new quarters for noncommissioned officers’ families were
-also in use by this time, and the original 1874 officers’ adobes
+laundresses' quarters were being used as dwellings for enlisted men's
+families. Some new quarters for noncommissioned officers' families were
+also in use by this time, and the original 1874 officers' adobes
 eventually became noncom headquarters.
 
-Construction and improvement continued in the early 1900’s with the 1904
+Construction and improvement continued in the early 1900's with the 1904
 addition of a post gymnasium, and in 1905 a frame headquarters building
 was built. Today the headquarters structure is the Fort Robinson Museum,
 a branch of the Nebraska State Historical Society.
@@ -1467,16 +1501,16 @@ completed the surgeon asked for an additional wing, which was
 immediately added, as well as a large annex at the rear to accommodate
 the increasing garrison. Brick buildings built in 1906-1912 included
 stables, stable guard quarters, blacksmith shops, fire station, bakery,
-company barracks buildings, bachelor officers’ quarters and officers’
+company barracks buildings, bachelor officers' quarters and officers'
 residences. At one time an elaborate plan to convert the entire post to
 the new brick style was drawn up but was never carried out. Needless to
 say, along with construction came the destruction of old and outmoded
 buildings which were replaced. The only remnants of the original post of
-the 1870’s standing today are the six adobe officers’ quarters.
+the 1870's standing today are the six adobe officers' quarters.
 
 In 1927 the Remount Service began new major construction, building
 several elaborate horse stables. All buildings were repaired and several
-recreational facilities were built by the CCC during the 1930’s.
+recreational facilities were built by the CCC during the 1930's.
 Expansion during World War II included a large number of temporary
 buildings for use by the War Dog Training Center and the Prisoner of War
 Camp.
@@ -1503,7 +1537,7 @@ The US. Department of Agriculture operated a Soil Conservation Service
 Training Center at Fort Robinson from October, 1954, until January 6,
 1964. Men from the great plains states and foreign countries were
 trained at the center located in Comanche Hall, the former Bachelor
-Officers’ Quarters.
+Officers' Quarters.
 
 Today Fort Robinson is operated under a cooperative agreement between
 state agencies. The University of Nebraska Department of Geology and
@@ -1528,16 +1562,16 @@ State Historical Society on June 3, 1956, the Society has carried out a
 number of projects to preserve and interpret the history of the historic
 post. Starting in 1958 the Society restored the Blacksmith and Harness
 Repair shops. In 1966 archeological excavations began at the site of the
-Guardhouse, Adjutant’s Office and Cavalry Barracks, all dating from
+Guardhouse, Adjutant's Office and Cavalry Barracks, all dating from
 1874. The remains of the 1884 Guardhouse were also uncovered.
 
 These excavations provided information for the reconstruction of the
-1874 Guardhouse and Adjutant’s Office. The 1884 Wheelwright Shop, the
+1874 Guardhouse and Adjutant's Office. The 1884 Wheelwright Shop, the
 oldest wooden structure on the post, has also been restored. Restoration
 work has also been carried out on the 1909 Veterinarian Hospital
-Building and an 1887 Adobe Officers’ Quarters and the 1905 Post
+Building and an 1887 Adobe Officers' Quarters and the 1905 Post
 Headquarters, which is utilized as a museum. The Post Cemetery, the 1895
-Granary, and the 1886 Bandleader’s Quarters are also in the process of
+Granary, and the 1886 Bandleader's Quarters are also in the process of
 restoration. Earlier the Society had carried out limited archeological
 investigation at the site of the Red Cloud Agency.
 
@@ -1582,22 +1616,22 @@ Clark, William P. _The Indian Sign Language._ Philadelphia: L. R.
 DeBarthe, Joseph. _The Life and Adventures of Frank Grouard._ St.
       Joseph, Mo.: Combe Printing Co., c. 1894.
 
-Flannery, L. G. (ed.) _Volume I, John Hunton’s Diary, 1873-75._ Lingle,
+Flannery, L. G. (ed.) _Volume I, John Hunton's Diary, 1873-75._ Lingle,
       Wyo.: Guide-Review, c. 1956.
 
 Forrest, Earle R. and Milner, Joe E. _California Joe._ Caldwell, I.:
       Caxton Printers, 1935.
 
 Grinnell, George Bird. _The Fighting Cheyennes._ New York: Charles
-      Scribner’s Sons, 1915.
+      Scribner's Sons, 1915.
 
-——. _Two Great Scouts and Their Pawnee Battalion._ Cleveland: Arthur H.
-      Clark Co., 1928.
+----. _Two Great Scouts and Their Pawnee Battalion._ Cleveland: Arthur
+      H. Clark Co., 1928.
 
 Hafen, Leroy R. and Young, Francis M. _Fort Laramie and the Pageant of
       the West, 1834-1890._ Glendale, Calif.: Arthur H. Clark Co., 1938.
 
-Hyde, George E. _Red Cloud’s Folk, A History of the Oglala Sioux
+Hyde, George E. _Red Cloud's Folk, A History of the Oglala Sioux
       Indians._ Norman, Okla.: University of Oklahoma Press, 1937.
 
 Lawson, Laurin L. _Souvenir History of Fort Robinson._ Crawford, Nebr.:
@@ -1613,10 +1647,10 @@ Mills, Anson. _My Story._ Washington, D. C.: Published by the author,
 Sandoz, Mari. _Cheyenne Autumn._ New York: McGraw-Hill Book Co., Inc.,
       c. 1953.
 
-——. _Crazy Horse, the Strange Man of the Oglalas._ New York: Alfred A.
+----. _Crazy Horse, the Strange Man of the Oglalas._ New York: Alfred A.
       Knopf, 1942.
 
-——. _Old Jules._ Boston: Little, Brown, & Co., 1935.
+----. _Old Jules._ Boston: Little, Brown, & Co., 1935.
 
 Schmitt, Martin F. (ed.) _General George Crook, His Autobiography._
       Norman, Okla.: University of Oklahoma Press, 1946.
@@ -1625,41 +1659,41 @@ Schmitt, Martin F. (ed.) _General George Crook, His Autobiography._
                        Periodicals and Newspapers
 
 _Nebraska History, a Quarterly Magazine._ Lincoln: Nebraska State
-      Historical Society, 1918——.
+      Historical Society, 1918----.
 
-Allen, Charles W., “Red Cloud and the U. S. Flag,” XXII, No. 1
+Allen, Charles W., "Red Cloud and the U. S. Flag," XXII, No. 1
       (January-March, 1941), 77-88.
 
-Brininstool, E . A., _et al._ “Chief Crazy Horse, His Career and Death,”
+Brininstool, E . A., _et al._ "Chief Crazy Horse, His Career and Death,"
       XII, No. 1 (January-March, 1929), 4-78.
 
-Burns, Robert H. “The Newman Ranches, Pioneer Cattle Ranches of the
-      West,” XXXIV, No. 1 (March, 1953), 21-32.
+Burns, Robert H. "The Newman Ranches, Pioneer Cattle Ranches of the
+      West," XXXIV, No. 1 (March, 1953), 21-32.
 
-Cook, James H. “Early Days in Ogallala,” XIV, No. 2 (April-June, 1933),
+Cook, James H. "Early Days in Ogallala," XIV, No. 2 (April-June, 1933),
       86-99.
 
-Mahnken, Norbert R. “The Sidney-Black Hills Trail,” XXX, No. 3
+Mahnken, Norbert R. "The Sidney-Black Hills Trail," XXX, No. 3
       (September, 1948), 203-225.
 
-Mattison, Ray H. “The Army Post on the Northern Plains, 1865-1885,”
+Mattison, Ray H. "The Army Post on the Northern Plains, 1865-1885,"
       XXXV, No. 1 (March, 1954), 17-43.
 
-——. “The Indian Reservation System on the Upper Missouri, 1865-1890,”
+----. "The Indian Reservation System on the Upper Missouri, 1865-1890,"
       XXXVI, No. 3 (September, 1955), 141-172.
 
-Unthank, O. B. “Red Cloud Agency and Fort Laramie, 1867-1874,” VII, No.
+Unthank, O. B. "Red Cloud Agency and Fort Laramie, 1867-1874," VII, No.
       1 (January-March, 1924), 27-29.
 
-Wight, Willard E. (ed.) “A Young Medical Officer’s Letters From Fort
-      Robinson and Fort Leavenworth, 1906-1907,” XXXVII, No. 2 (June,
+Wight, Willard E. (ed.) "A Young Medical Officer's Letters From Fort
+      Robinson and Fort Leavenworth, 1906-1907," XXXVII, No. 2 (June,
       1956), 135-147.
 
-Wilson, Everett P. “The Story of the Oglala and Brule Sioux in the Pine
-      Ridge Country of Northwest Nebraska in the Middle Seventies,”
+Wilson, Everett P. "The Story of the Oglala and Brule Sioux in the Pine
+      Ridge Country of Northwest Nebraska in the Middle Seventies,"
       XXII, No. 1 (January-March, 1941), 15-32.
 
-Bourke, John G. “Mackenzie’s Last Fight with the Cheyennes,” _Journal of
+Bourke, John G. "Mackenzie's Last Fight with the Cheyennes," _Journal of
       the Military Service Institution_, XI, No. 42 (January, 1890),
       29-49; No. 43 (March, 1890), 198-221.
 
@@ -1670,12 +1704,12 @@ _Omaha Weekly Bee_ (Omaha, Nebr.), 1874-1878.
 
                                Documents
 
-Baker, Marvel L., Johnson, Leslie E., and Davis, Russell L., “Beef
-      Cattle Research at Fort Robinson,” University of Nebraska College
+Baker, Marvel L., Johnson, Leslie E., and Davis, Russell L., "Beef
+      Cattle Research at Fort Robinson," University of Nebraska College
       of Agriculture, Agricultural Experiment Station, _Miscellaneous
       Publication_ No. 1, April, 1952.
 
-Brackett, Albert G., “The Sioux or Dakota Indians,” Report of the
+Brackett, Albert G., "The Sioux or Dakota Indians," Report of the
       Smithsonian Institution, 1877, _Senate Miscellaneous Documents_,
       No. 46, 44th Congress, 2d. Session.
 
@@ -1713,11 +1747,11 @@ U. S. National Archives, Microfilm, Nebraska State Historical Society
 
   Selected Documents from Medical History of Post, Record Group 98
 
-  Records of the Adjutant General’s Office, Document File 563-AGO-1874,
+  Records of the Adjutant General's Office, Document File 563-AGO-1874,
   Record Group 94
 
-  Records of the Adjutant General’s Office, Document File 4163 (Sioux
-  War)—1876, Record Group 94
+  Records of the Adjutant General's Office, Document File 4163 (Sioux
+  War)--1876, Record Group 94
 
   Records of U. S. Army Commands, Selected Documents, Sioux Expedition,
   1874, Record Group 98
@@ -1769,7 +1803,7 @@ Notebook kept by Dr. V. T. McGillycuddy, M.D., while a member of the
 [5]Man Afraid of His Horses (the elder) led the Hunkpatila band. Both he
     and his son were prominent in affairs at Red Cloud Agency. For a
     detailed discussion of the position of these and other Indian
-    leaders, see George E. Hyde, _Red Cloud’s Folk_ (Norman, Okla.,
+    leaders, see George E. Hyde, _Red Cloud's Folk_ (Norman, Okla.,
     1937).
 
 [6]J. J. Saville to Gen. J. E. Smith, February 9, 1874, NARS, RG 94.
@@ -1792,7 +1826,7 @@ Notebook kept by Dr. V. T. McGillycuddy, M.D., while a member of the
     Company F, Fourteenth Infantry; Companies B and K, Thirteenth
     Infantry.
 
-[12]Band chiefs and “soldiers” (camp police) had authority only in their
+[12]Band chiefs and "soldiers" (camp police) had authority only in their
     own camp. The four men selected to have supreme authority during the
     annual tribal encampment were not chiefs but prominent warriors. For
     a discussion of some of the differences in authority between chiefs
@@ -1801,8 +1835,8 @@ Notebook kept by Dr. V. T. McGillycuddy, M.D., while a member of the
 [13]Lt. Gen. P. H. Sheridan to Gen. W. T. Sherman, March 3, 1874, NARS,
     RG 94.
 
-[14]“Record of the Medical History of Post [Fort Robinson], Medical
-    Department, U. S. Army” (Ms. copy), Tablet No. 31, Ricker
+[14]"Record of the Medical History of Post [Fort Robinson], Medical
+    Department, U. S. Army" (Ms. copy), Tablet No. 31, Ricker
     Collection, Nebraska State Historical Society.
 
 [15]Hyde, _op. cit._, pp. 221, 222; J. J. Saville to Hon. E. P. Smith,
@@ -1819,7 +1853,7 @@ Notebook kept by Dr. V. T. McGillycuddy, M.D., while a member of the
 [18]Capt. H. M. Lazelle to Gen. John E. Smith, April 6, 1874, NARS, RG
     94.
 
-[19]A. G. Brackett, “The Sioux or Dakota Indians,” Smithsonian
+[19]A. G. Brackett, "The Sioux or Dakota Indians," Smithsonian
     Institution, _Annual Report_, 1876, pp. 466-474.
 
 [20]Interview by Judge E. S. Ricker with George Colhoff, Tablet No. 17,
@@ -1857,7 +1891,7 @@ Notebook kept by Dr. V. T. McGillycuddy, M.D., while a member of the
     Black Hills, February 23-April 11, 1877, typed copy, Nebraska State
     Historical Society. See entry for December 13, 1876.
 
-[28]“Record of the Medical History of Post,” _op. cit._
+[28]"Record of the Medical History of Post," _op. cit._
 
 [29]McGillicuddy, _op. cit._, entry for December 28-31, 1876.
 
@@ -1913,7 +1947,7 @@ Notebook kept by Dr. V. T. McGillycuddy, M.D., while a member of the
     Donovan died of a fractured skull inflicted by Sergeant of the Guard
     Jackson.
 
-[33]“Record of the Medical History of Post,” _op. cit._
+[33]"Record of the Medical History of Post," _op. cit._
 
 [34]This brief summary of the Cheyenne Outbreak is not detailed; there
     are numerous longer descriptions and eyewitness accounts.
@@ -1935,7 +1969,7 @@ Notebook kept by Dr. V. T. McGillycuddy, M.D., while a member of the
 
 [38]Veteran white officers commanded the Ninth and Tenth Cavalry
     regiments. Both regiments served at Fort Robinson, the Ninth during
-    the 1880’s and 1890’s and the Tenth in the early 1900’s. Both
+    the 1880's and 1890's and the Tenth in the early 1900's. Both
     regiments won renown during the Indian Wars.
 
 [39]Col. D. Perry to Adjutant General, Department of the Platte, Omaha,
@@ -1947,12 +1981,12 @@ Notebook kept by Dr. V. T. McGillycuddy, M.D., while a member of the
 
 [41]When Capt. Anson Mills directed construction of new buildings at
     Camp Sheridan in 1875 Spotted Tail told him he knew troops were to
-    be permanently stationed at his agency because “when they put rocks
-    under their houses they are going to stay.” (Anson Mills, _My Story_
+    be permanently stationed at his agency because "when they put rocks
+    under their houses they are going to stay." (Anson Mills, _My Story_
     [Washington, 1918], p. 163.)
 
-[42]“Camp Robinson, Nebraska,” _Report on the Hygiene of the United
-    States Army_ (Washington, 1875), Surgeon-General’s Office, Circular
+[42]"Camp Robinson, Nebraska," _Report on the Hygiene of the United
+    States Army_ (Washington, 1875), Surgeon-General's Office, Circular
     No. 8, pp. 366-367.
 
 
@@ -1991,7 +2025,7 @@ are still standing; those in outline are no longer in existence.
    42, 43 Off. Qtrs.                   1874
    44-47 Off. Qtrs.                    1875
    48 CCC Swimming Pool                1935
-   49 Bandleader’s Qtrs                1886
+   49 Bandleader's Qtrs                1886
   101 Post Gym., Museum                1904
   102 Post Hosp.                       1885
   103-106 Cav. Stables                 1908
@@ -2016,11 +2050,11 @@ are still standing; those in outline are no longer in existence.
   135 Non-Com Qtrs
   136 Tailor-Saddler Shops             1874
   137 Cavalry Barracks                 1874
-  138 Adjutant’s Office                1874
+  138 Adjutant's Office                1874
   139 Guard House                      1884
   140 Guard House                      1874
   141 Commissary Stores                1874
-  142 Laundresses’ Qtrs.               1874
+  142 Laundresses' Qtrs.               1874
   143 Quartermaster Shops              1874
   144 Storehouse                       1884
   145 Bakery                           1874
@@ -2042,9 +2076,9 @@ are still standing; those in outline are no longer in existence.
   172 Tennis Courts                    1935
   173 Post Office                      1943
   174 Post Exchange                    1942
-  175 Recreation Hall—WAC
-  176 Mess Hall—WAC
-  177 Barracks—WAC
+  175 Recreation Hall--WAC
+  176 Mess Hall--WAC
+  177 Barracks--WAC
   178 Hay & Grain Shed                 1933
   179 Stallion Stable                  1930
   201 Magazine                         1894
@@ -2056,11 +2090,11 @@ are still standing; those in outline are no longer in existence.
   207 QM Pack Train Stable             1892
   209 QM Wagon Shed                    1896
   210 QM Shed
-  211 Packers’ Qtrs.                   1895
-  212 Saddler’s Qtrs.                  1887
-  213 Teamsters’ Qtrs.                 1892
-  214 Wheelwright’s Qtrs.              1895
-  215 Carpenters’ Qtrs                 1909
+  211 Packers' Qtrs.                   1895
+  212 Saddler's Qtrs.                  1887
+  213 Teamsters' Qtrs.                 1892
+  214 Wheelwright's Qtrs.              1895
+  215 Carpenters' Qtrs                 1909
   218 Hay Shed                         1906
   219 Hay Shed                         1897
   220 Granary                          1895
@@ -2073,7 +2107,7 @@ are still standing; those in outline are no longer in existence.
   227 Eng. Equip. Shed                 194?
   227 Site of Coal Shed                1896
   228 Blacksmith Shop                  1884
-  229 Wheelwright’s Shop               1884
+  229 Wheelwright's Shop               1884
   230 Ord. Stores                      1899
   231 Lumber Shed                      1942
   232 Oil House                        1900
@@ -2105,7 +2139,7 @@ are still standing; those in outline are no longer in existence.
   258 Vet. Isolation Hosp.             1928
   259 School & Drilling Shed           1942
   260 Transformer Sub-Station          1909
-  261 Mess Hall—Canine
+  261 Mess Hall--Canine
   262-264 Barracks-Canine
   302 Water Towers                     1889, 1903
   304 Broodmare & Shipping Stable      1928
@@ -2142,7 +2176,7 @@ of the public. It is particularly anxious to secure valuable records and
 materials now in private hands where they cannot be preserved.
 
 In performing its important function, it solicits the support of all
-public-spirited citizens—support which can best be expressed through
+public-spirited citizens--support which can best be expressed through
 membership in the Society. Membership carries with it a voice in the
 government of the Society, including election of the members of the
 Executive Board. Members receive, without further payment, NEBRASKA
@@ -2162,15 +2196,15 @@ Nebraska, 68508.
 
 
 
-                          Transcriber’s Notes
+                          Transcriber's Notes
 
 
-—Silently corrected a few typos.
+--Silently corrected a few typos.
 
-—Retained publication information from the printed edition: this eBook
+--Retained publication information from the printed edition: this eBook
   is public-domain in the country of publication.
 
-—In the text versions only, text in italics is delimited by
+--In the text versions only, text in italics is delimited by
   _underscores_.
 
 
@@ -2181,4 +2215,365 @@ Nebraska, 68508.
 
 End of Project Gutenberg's Fort Robinson, by Roger Tibbetts Grange, Jr.
 
-*** END OF THE PROJECT GUTENBERG EBOOK 60245 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK FORT ROBINSON ***
+
+***** This file should be named 60245-8.txt or 60245-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/0/2/4/60245/
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
